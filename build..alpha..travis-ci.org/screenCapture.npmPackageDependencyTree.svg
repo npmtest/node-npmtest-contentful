@@ -1,0 +1,43 @@
+<svg height="638" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="638" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">8 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ contentful@4.1.2 </tspan>
+<tspan x="10" y="90">  ├─┬ axios@0.15.3 </tspan>
+<tspan x="10" y="106">  │ └─┬ follow-redirects@1.0.0 </tspan>
+<tspan x="10" y="122">  │   └─┬ debug@2.6.3 </tspan>
+<tspan x="10" y="138">  │     └── ms@0.7.2 </tspan>
+<tspan x="10" y="154">  ├─┬ contentful-sdk-core@3.8.3 </tspan>
+<tspan x="10" y="170">  │ ├─┬ npmlog@4.0.2 </tspan>
+<tspan x="10" y="186">  │ │ ├─┬ are-we-there-yet@1.1.2 </tspan>
+<tspan x="10" y="202">  │ │ │ ├── delegates@1.0.0 </tspan>
+<tspan x="10" y="218">  │ │ │ └─┬ readable-stream@2.2.9 </tspan>
+<tspan x="10" y="234">  │ │ │   ├── buffer-shims@1.0.0 </tspan>
+<tspan x="10" y="250">  │ │ │   ├── core-util-is@1.0.2 </tspan>
+<tspan x="10" y="266">  │ │ │   ├── inherits@2.0.3 </tspan>
+<tspan x="10" y="282">  │ │ │   ├── isarray@1.0.0 </tspan>
+<tspan x="10" y="298">  │ │ │   ├── process-nextick-args@1.0.7 </tspan>
+<tspan x="10" y="314">  │ │ │   ├── string_decoder@1.0.0 </tspan>
+<tspan x="10" y="330">  │ │ │   └── util-deprecate@1.0.2 </tspan>
+<tspan x="10" y="346">  │ │ ├── console-control-strings@1.1.0 </tspan>
+<tspan x="10" y="362">  │ │ ├─┬ gauge@2.7.3 </tspan>
+<tspan x="10" y="378">  │ │ │ ├── aproba@1.1.1 </tspan>
+<tspan x="10" y="394">  │ │ │ ├── has-unicode@2.0.1 </tspan>
+<tspan x="10" y="410">  │ │ │ ├── object-assign@4.1.1 </tspan>
+<tspan x="10" y="426">  │ │ │ ├── signal-exit@3.0.2 </tspan>
+<tspan x="10" y="442">  │ │ │ ├─┬ string-width@1.0.2 </tspan>
+<tspan x="10" y="458">  │ │ │ │ ├── code-point-at@1.1.0 </tspan>
+<tspan x="10" y="474">  │ │ │ │ └─┬ is-fullwidth-code-point@1.0.0 </tspan>
+<tspan x="10" y="490">  │ │ │ │   └── number-is-nan@1.0.1 </tspan>
+<tspan x="10" y="506">  │ │ │ ├─┬ strip-ansi@3.0.1 </tspan>
+<tspan x="10" y="522">  │ │ │ │ └── ansi-regex@2.1.1 </tspan>
+<tspan x="10" y="538">  │ │ │ └── wide-align@1.1.0 </tspan>
+<tspan x="10" y="554">  │ │ └── set-blocking@2.0.0 </tspan>
+<tspan x="10" y="570">  │ └── qs@6.4.0 </tspan>
+<tspan x="10" y="586">  ├── es6-promise@4.1.0 </tspan>
+<tspan x="10" y="602">  ├── json-stringify-safe@5.0.1 </tspan>
+<tspan x="10" y="618">  └── lodash@4.17.4</tspan>
+</text>
+</svg>
