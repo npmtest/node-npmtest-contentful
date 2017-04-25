@@ -1,4 +1,7 @@
-# test coverage for  [contentful (v4.1.2)](https://www.contentful.com/developers/documentation/content-delivery-api/)  [![npm package](https://img.shields.io/npm/v/npmtest-contentful.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-contentful) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-contentful.svg)](https://travis-ci.org/npmtest/node-npmtest-contentful)
+# npmtest-contentful
+
+#### basic test coverage for  [contentful (v4.2.1)](https://www.contentful.com/developers/documentation/content-delivery-api/)  [![npm package](https://img.shields.io/npm/v/npmtest-contentful.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-contentful) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-contentful.svg)](https://travis-ci.org/npmtest/node-npmtest-contentful)
+
 #### Client for Contentful's Content Delivery API
 
 [![NPM](https://nodei.co/npm/contentful.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/contentful)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-contentful/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-contentful/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-contentful/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-contentful/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-contentful/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-contentful/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-contentful/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-contentful/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-contentful/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-contentful/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-contentful/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-contentful/build/coverage.html/index.html)
 
@@ -46,7 +49,7 @@
     },
     "dependencies": {
         "axios": "~0.15.3",
-        "contentful-sdk-core": "^3.8.0",
+        "contentful-sdk-core": "^3.9.0",
         "es6-promise": "^4.0.5",
         "json-stringify-safe": "^5.0.1",
         "lodash": "^4.17.4"
@@ -97,8 +100,8 @@
     },
     "directories": {},
     "dist": {
-        "shasum": "5a02e02b694fce860de657122e7c49b96046eca5",
-        "tarball": "https://registry.npmjs.org/contentful/-/contentful-4.1.2.tgz"
+        "shasum": "f9951e32d5897026c074cb58098ca97296c5041e",
+        "tarball": "https://registry.npmjs.org/contentful/-/contentful-4.2.1.tgz"
     },
     "engines": {
         "node": ">=4.7.2"
@@ -109,7 +112,7 @@
         "dist",
         "tonic-example.js"
     ],
-    "gitHead": "8ff6a006d1fe0d3ce20054af66e574d96043474e",
+    "gitHead": "28a5a0d7938e98a99796b9bbe5c9905c2323aa4f",
     "homepage": "https://www.contentful.com/developers/documentation/content-delivery-api/",
     "license": "MIT",
     "main": "./dist/contentful.node.js",
@@ -172,7 +175,8 @@
     },
     "tonicExampleFilename": "tonic-example.js",
     "types": "./index.d.ts",
-    "version": "4.1.2"
+    "version": "4.2.1",
+    "bin": {}
 }
 ```
 
